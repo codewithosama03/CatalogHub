@@ -27,6 +27,7 @@ function ProductDetails() {
     loadProduct();
   }, [id]);
 
+
   if (loading) {
     return (
       <div className="flex justify-center items-center min-h-[70vh]">
@@ -61,7 +62,7 @@ function ProductDetails() {
           />
         </div>
 
-        {/* DETAILS */}
+        {/* Details */}
         <div>
           <h1 className="text-3xl font-bold mb-4">
             {product.title}

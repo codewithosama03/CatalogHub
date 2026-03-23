@@ -130,7 +130,7 @@ Tailwind CSS
 
 Vite
 
-Learning Outcomes
+## Learning Outcomes
 
 Understanding product listing architecture
 

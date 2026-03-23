@@ -34,7 +34,7 @@ Clean UI using Tailwind CSS
 
 Basic Add to Cart / Buy Now UI (frontend only)
 
-Application Flow
+## Application Flow
 
 The application follows a simple product browsing flow.
 

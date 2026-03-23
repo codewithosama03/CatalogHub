@@ -150,13 +150,10 @@ Deploying React apps using GitHub Pages
 
 ## Screenshots
 
-Example:
+### Desktop View
+![Home Page](img.png)
 
-Home Page
-
-Products Page
-
-Product Details Page
+![Home Page](img2.png)
 
 ## Future Improvements
 
